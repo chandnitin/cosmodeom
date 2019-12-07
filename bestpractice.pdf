@@ -1,0 +1,22 @@
+Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [bpMasterId] => 3
+                    [empId] => 80015716
+                    [deptName] => CO-Chennai-IS-Applications Development
+                    [locationName] => Pune
+                    [empName] => Ashish Gunjal
+                    [empEmailId] => Ashish.Gunjal@Mahindraholidays.COM
+                    [empManagerId] => ashish.gunjal@mahindraholidays.com
+                    [description] => dasdasd
+                    [documentName] => BRD best practice on APP.docx
+                    [uniqueness] => dasdasd
+                    [implementedArea] => Ashish Gunjal
+                    [impactAreaId] => 5
+                    [otherArea] => 
+                    [beforeImplementation] => 
+                    [afterImplementation] => 
+                    [createdBy
